@@ -1,0 +1,12 @@
+
+
+{
+	"hostname" : "h79",
+	"hostInterfaces" : {
+		"eth0" : {
+			"name": "eth0",
+        "prefix" : "14.11.5.1/24",
+        "gateway": "14.11.5.254"
+		}
+	}
+}

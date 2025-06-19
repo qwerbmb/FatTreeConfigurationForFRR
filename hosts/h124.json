@@ -1,0 +1,12 @@
+
+
+{
+	"hostname" : "h124",
+	"hostInterfaces" : {
+		"eth0" : {
+			"name": "eth0",
+        "prefix" : "15.15.5.1/24",
+        "gateway": "15.15.5.254"
+		}
+	}
+}

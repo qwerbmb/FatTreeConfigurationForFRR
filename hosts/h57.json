@@ -1,0 +1,12 @@
+
+
+{
+	"hostname" : "h57",
+	"hostInterfaces" : {
+		"eth0" : {
+			"name": "eth0",
+        "prefix" : "13.12.3.1/24",
+        "gateway": "13.12.3.254"
+		}
+	}
+}

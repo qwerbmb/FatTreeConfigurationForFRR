@@ -1,0 +1,12 @@
+
+
+{
+	"hostname" : "h201",
+	"hostInterfaces" : {
+		"eth0" : {
+			"name": "eth0",
+        "prefix" : "19.11.2.1/24",
+        "gateway": "19.11.2.254"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+
+
+{
+	"hostname" : "h171",
+	"hostInterfaces" : {
+		"eth0" : {
+			"name": "eth0",
+        "prefix" : "17.15.2.1/24",
+        "gateway": "17.15.2.254"
+		}
+	}
+}

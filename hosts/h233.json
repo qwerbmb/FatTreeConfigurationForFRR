@@ -1,0 +1,12 @@
+
+
+{
+	"hostname" : "h233",
+	"hostInterfaces" : {
+		"eth0" : {
+			"name": "eth0",
+        "prefix" : "20.12.4.1/24",
+        "gateway": "20.12.4.254"
+		}
+	}
+}

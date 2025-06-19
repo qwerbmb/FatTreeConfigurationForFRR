@@ -1,0 +1,12 @@
+
+
+{
+	"hostname" : "h154",
+	"hostInterfaces" : {
+		"eth0" : {
+			"name": "eth0",
+        "prefix" : "17.11.5.1/24",
+        "gateway": "17.11.5.254"
+		}
+	}
+}

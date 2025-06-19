@@ -1,0 +1,12 @@
+
+
+{
+	"hostname" : "h194",
+	"hostInterfaces" : {
+		"eth0" : {
+			"name": "eth0",
+        "prefix" : "18.14.5.1/24",
+        "gateway": "18.14.5.254"
+		}
+	}
+}

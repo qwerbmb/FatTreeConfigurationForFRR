@@ -1,0 +1,12 @@
+
+
+{
+	"hostname" : "h96",
+	"hostInterfaces" : {
+		"eth0" : {
+			"name": "eth0",
+        "prefix" : "14.15.2.1/24",
+        "gateway": "14.15.2.254"
+		}
+	}
+}

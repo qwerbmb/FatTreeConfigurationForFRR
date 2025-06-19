@@ -1,0 +1,12 @@
+
+
+{
+	"hostname" : "h152",
+	"hostInterfaces" : {
+		"eth0" : {
+			"name": "eth0",
+        "prefix" : "17.11.3.1/24",
+        "gateway": "17.11.3.254"
+		}
+	}
+}

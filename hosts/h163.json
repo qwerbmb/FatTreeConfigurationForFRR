@@ -1,0 +1,12 @@
+
+
+{
+	"hostname" : "h163",
+	"hostInterfaces" : {
+		"eth0" : {
+			"name": "eth0",
+        "prefix" : "17.13.4.1/24",
+        "gateway": "17.13.4.254"
+		}
+	}
+}

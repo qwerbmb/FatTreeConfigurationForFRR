@@ -1,0 +1,12 @@
+
+
+{
+	"hostname" : "h26",
+	"hostInterfaces" : {
+		"eth0" : {
+			"name": "eth0",
+        "prefix" : "12.11.2.1/24",
+        "gateway": "12.11.2.254"
+		}
+	}
+}
